@@ -1,3 +1,9 @@
+@media (max-width: 576px){
+    .mobilemargin{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    }}
+    
 .navbarportfolio{
 background-color: rgba(142, 167, 164, 0.13);
 position: absolute;  
@@ -113,12 +119,6 @@ margin-top: 0rem;
 padding-left: 1.5rem;
 }}
 
-@media (max-width: 576px){
-.mobilemargin{
-margin-left: 2rem;
-margin-right: 2rem;
-}}
-
 
 .bottomspace{
     display: inline-block;
@@ -159,21 +159,22 @@ margin-right: 2rem;
     font-family: "karla", sans-serif;
     color: black;
     font-size: 18px;
-    font-weight: 400;
-}
+    font-weight: 400;}
+
+.abouttextbold{
+    font-family: "karla", sans-serif;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    }
+    
 .pageheader{
     font-family: "karla", sans-serif;
     color: black;
     font-size: 36px;
     font-weight: 600;   
 }
-@media (max-width:576px){
-.pagetitlemobile{
-    font-family: "karla", sans-serif;
-    color: black;
-    font-size: 24px;
-    font-weight: 600; 
-}}
+
 
 .pagetitle{
     font-family: "karla", sans-serif;
@@ -181,6 +182,14 @@ margin-right: 2rem;
     font-size: 48px;
     font-weight: 600;    
 }
+
+@media (max-width:576px) {
+    .pagetitlemobile{
+        font-family: "karla", sans-serif;
+        color: black;
+        font-size: 36px;
+        font-weight: 600; 
+    }}
 
 .offsetright-md-1{
     margin-right: 8.33333333%;
