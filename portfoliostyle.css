@@ -3,7 +3,7 @@
     margin-left: 2rem;
     margin-right: 2rem;
     }}
-    
+
 .navbarportfolio{
 background-color: rgba(142, 167, 164, 0.13);
 position: absolute;  
@@ -63,7 +63,14 @@ border-radius: 10px;
     width: 100%;
     height: auto;
 }
-
+.covertextheadingbold{
+    color:black;
+    font-family: "Karla", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none; 
+    line-height: 1.3;
+}
 .covertextheading{
     color:black;
     font-family: "Karla", sans-serif;
@@ -97,11 +104,13 @@ background-color: rgba(142, 167, 164, 0.13);
 .footertext1{
 font-family: "karla", sans-serif;
 font-size: 18px;
+color: #6f6f6f;
 }
 
 .footertext2{
 font-family: "karla", sans-serif;
 font-size: 14px;
+color: #6f6f6f;
 }
 
 .footerspace{
@@ -160,6 +169,12 @@ padding-left: 1.5rem;
     color: black;
     font-size: 18px;
     font-weight: 400;}
+
+.abouttextmuted{
+        font-family: "karla", sans-serif;
+        color: #757575;
+        font-size: 18px;
+        font-weight: 400;}
 
 .abouttextbold{
     font-family: "karla", sans-serif;
