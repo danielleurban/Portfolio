@@ -9,6 +9,12 @@ background-color: rgba(142, 167, 164, 0.13);
 position: absolute;  
 }
 
+.sticky-top{
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+
 .homepageh1{
 font-size: 40px;
 font-family: "Nunito", sans-serif;
@@ -229,9 +235,6 @@ height: 500px;
 border-color: black;
 }
 
-.ul{
-    line-height: 1.5rem !important;
-}
 .method1{
     list-style-image: url(./images/method1.svg);
 }
@@ -243,6 +246,7 @@ border-color: black;
 }
 .method4{
     list-style-image: url(./images/method4.svg);
+    text-align: center;
 }
 
 .nextsteps2{
