@@ -1,0 +1,81 @@
+.navbardanielle{
+    background-color: seashell; 
+}
+.bold20text{
+    color: #1B463E;
+    font-family: "karla" sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;}
+
+.bold24text{
+    color: #1B463E;
+    font-family: "karla" sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;}
+
+.bold36text{
+        color:black;
+        font-family: "karla" sans-serif;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: bold;
+        text-decoration: none;}
+
+.nonbold24text{
+    color: black;
+    font-family: "karla" sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: none;}
+
+.h1danielle{
+    color: #1B463E;
+    font-family: "karla" sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-decoration: none;}
+
+.nonboldbodytext{
+    color:black;
+    font-family: "karla" sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.nav-item {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.spacer {
+    height: 100px;
+}
+
+.lni-instagram-filled::before {
+    content: "\eaf1";
+  }
+  
+.lni-instagram-original::before {
+    content: "\eaf2";
+  }
+
+.lni-instagram::before {
+    content: "\eaf3";
+  }
+    
+  .btn-primary {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+  }
+
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+  }
+
+  .fa-dribble
+  

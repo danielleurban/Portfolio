@@ -1,0 +1,240 @@
+.navbarportfolio{
+background-color: rgba(142, 167, 164, 0.13);
+position: absolute;  
+}
+
+.homepageh1{
+font-size: 40px;
+font-family: "Nunito", sans-serif;
+font-style: normal;
+font-weight: 400;
+color: #92708C;
+}
+
+.nonbold24text{
+    color: black;
+    font-family: "Karla", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: none;}
+
+.navbarname{
+    color:#92708C;
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    text-decoration: none;  
+    }
+
+.navbartitles{
+    color:black;
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: none;   
+}
+.rectangle{
+    background: rgba(240, 244, 243, 0.20);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 15px;
+
+}
+.headingspacer{
+height: 80px;
+}
+
+.gradientbutton{
+background: linear-gradient(91.48deg, #8EA7A3 -4.94%, #92708C 105.77%);
+color: white;
+font-family: "karla", sans-serif;
+font-size: 20px;
+font-weight: 600;
+border-radius: 10px;
+}
+
+.coverimage{
+    width: 100%;
+    height: auto;
+}
+
+.covertextheading{
+    color:black;
+    font-family: "Karla", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    text-decoration: none; 
+    line-height: 1.3;
+}
+
+.covertextrole{
+    color: black;
+    font-family: "Karla", sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    font-style: italic;
+    line-height: 1.3;
+}
+
+.covertextdiscription{
+    color: black;
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.3;
+}
+
+.daniellefooter{
+background-color: rgba(142, 167, 164, 0.13);
+}
+
+.footertext1{
+font-family: "karla", sans-serif;
+font-size: 18px;
+}
+
+.footertext2{
+font-family: "karla", sans-serif;
+font-size: 14px;
+}
+
+.footerspace{
+margin-bottom: .5rem;
+margin-top: 0rem;
+}
+
+@media (min-width: 768px){
+.offset-md-3 {
+    margin-left: 25% !important; 
+}}
+
+@media (max-width: 576px){
+.mobilecard{
+padding-left: 1.5rem;
+}}
+
+@media (max-width: 576px){
+.mobilemargin{
+margin-left: 2rem;
+margin-right: 2rem;
+}}
+
+
+.bottomspace{
+    display: inline-block;
+    height: 100%;
+    vertical-align: bottom;
+    width: 0px;
+}
+.header-social-links {
+    padding-right: 15px;
+  }
+  
+.header-social-links a {
+    color: #6f6f6f;
+    padding-left: 6px;
+    display: inline-block;
+    line-height: 0px;
+    transition: 0.3s;
+    font-size: 16px;
+  }
+  
+.header-social-links a:hover {
+    color: #92708C;
+  }
+.icon:hover{
+    color: #92708C !important;
+}
+
+.spacer{
+    height: 15px;
+}
+
+.profilepic{
+    height: 300px;
+    width: 300px;
+}
+
+.abouttext{
+    font-family: "karla", sans-serif;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+.pageheader{
+    font-family: "karla", sans-serif;
+    color: black;
+    font-size: 36px;
+    font-weight: 600;   
+}
+@media (max-width:576px){
+.pagetitlemobile{
+    font-family: "karla", sans-serif;
+    color: black;
+    font-size: 24px;
+    font-weight: 600; 
+}}
+
+.pagetitle{
+    font-family: "karla", sans-serif;
+    color: black;
+    font-size: 48px;
+    font-weight: 600;    
+}
+
+.offsetright-md-1{
+    margin-right: 8.33333333%;
+}
+
+
+.px-xxl-18 {
+    padding-right: 8rem !important;
+    padding-left: 8rem !important;}
+
+.iphone{
+    width: 300px;
+    height: auto;
+}
+
+.section1{
+height:100vh;
+}
+
+section{
+height: 500px;
+border-color: black;
+}
+
+.ul{
+    line-height: 1.5rem !important;
+}
+.method1{
+    list-style-image: url(./images/method1.svg);
+}
+.method2{
+    list-style-image: url(./images/method2.svg);
+}
+.method3{
+    list-style-image: url(./images/method3.svg);
+}
+.method4{
+    list-style-image: url(./images/method4.svg);
+}
+
+.nextsteps2{
+    list-style-image: url(./images/nextsteps2.svg);
+}
+.centerverticalincolumn {
+    display:flex; 
+    align-items:center
+}
+
+.centerhorizontalincolumn {
+    display: block;
+    margin:auto;
+}
+
+.processimages{
+    height: 100px;
+    width: 100px;
+}
