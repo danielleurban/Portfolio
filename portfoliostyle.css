@@ -30,6 +30,14 @@ color: #92708C;
     font-weight: 400;
     text-decoration: none;}
 
+.nonbold24texti{
+    color: black;
+    font-family: "Karla", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;}
+
 .navbarname{
     color:#92708C;
     font-size: 20px;
