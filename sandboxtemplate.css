@@ -61,6 +61,11 @@ hr {
 hr:not([size]) {
     height: 1px;
 }
+.sticky-top{
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
 .h1,
 .h2,
 .h3,
@@ -30827,11 +30832,7 @@ footer.bg-dark.angled.upper-start:before {
     left: 0;
     z-index: 1030;
 }
-.sticky-top {
-    position: sticky;
-    top: 0;
-    z-index: 1020;
-}
+
 @media (min-width: 576px) {
     .sticky-sm-top {
         position: sticky;
