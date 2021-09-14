@@ -296,4 +296,12 @@ border-color: black;
     padding-bottom: 0.5rem;
   }
 
+  /*iframe position*/
+.iframeContentCenter{
+    width: 414px;
+    margin: auto;
+    border-style: none;
+    height: 100%;
+    display: block;
+  }
 
