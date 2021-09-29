@@ -224,6 +224,20 @@ padding-left: 1.5rem;
         font-weight: 600; 
     }}
 
+    .cardheader{
+    font-family: "karla", sans-serif;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;    
+    }
+
+    .cardbody{
+    font-family: "karla", sans-serif;
+    color: black;
+    font-size: 16px;
+    font-weight: 400; 
+    }
+
 .offsetright-md-1{
     margin-right: 8.33333333%;
 }
