@@ -23463,8 +23463,8 @@ fieldset:disabled .btn.btn-circle {
     color: #262b32;
 }
 .btn-soft-primary {
-    background-color: #e0e9fa;
-    color: #3f78e0;
+    background: linear-gradient(125.27deg, #937890 7.17%, #8FA3A3 76.46%) !important;
+    color: white !important;
 }
 .btn-soft-primary:hover {
     color: #3f78e0;
