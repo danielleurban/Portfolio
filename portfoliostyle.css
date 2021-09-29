@@ -81,6 +81,9 @@ border-radius: 10px;
     width: 100%;
     height: auto;
 }
+.coverimageproductbyte{
+    max-height: 172px;
+}
 .covertextheadingbold{
     color:black;
     font-family: "Karla", sans-serif;
