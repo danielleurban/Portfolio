@@ -1,13 +1,11 @@
-html, body {
-    overflow-x: hidden;
-  }
+
 
   @media (max-width: 768px) {
     .mobilegoaway {
       display: none;
     }
   }
-  
+
 @media (max-width: 576px){
     .mobilemargin{
     margin-left: 2rem;
@@ -15,12 +13,12 @@ html, body {
     }}
 
 .navbarportfolio{
-background-color: rgba(142, 167, 164, 0.13);
-position: absolute;  
+background-color:#F0F4F3;
+position: sticky !important;
 }
 
 .sticky-top{
-    position: sticky;
+    position: sticky !important;
     top: 0;
     z-index: 1020;
 }
@@ -85,6 +83,15 @@ font-size: 20px;
 font-weight: 600;
 border-radius: 10px;
 }
+
+.gradientbuttondisabled{
+    background:linear-gradient(91.48deg, rgba(142, 167, 163, 0.6) -4.94%, rgba(146, 112, 140, 0.6) 105.77%);
+    color: white;
+    font-family: "karla", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 10px;
+    }
 
 .coverimage{
     width: 100%;
