@@ -2,6 +2,12 @@ html, body {
     overflow-x: hidden;
   }
 
+  @media (max-width: 768px) {
+    .mobilegoaway {
+      display: none;
+    }
+  }
+  
 @media (max-width: 576px){
     .mobilemargin{
     margin-left: 2rem;
@@ -17,6 +23,9 @@ position: absolute;
     position: sticky;
     top: 0;
     z-index: 1020;
+}
+.floatright{
+    float: right;
 }
 
 .homepageh1{
