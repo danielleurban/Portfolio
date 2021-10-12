@@ -12,6 +12,11 @@
     margin-right: 2rem;
     }}
 
+.nomargin{
+    margin-bottom: 0%;
+    margin-top: 0%
+}
+
 .navbarportfolio{
 background-color:#F0F4F3;
 position: sticky !important;
@@ -25,7 +30,9 @@ position: sticky !important;
 .floatright{
     float: right;
 }
-
+.sectioncolor{
+    background-color:#F0F4F3;
+}
 .homepageh1{
 font-size: 40px;
 font-family: "Nunito", sans-serif;
