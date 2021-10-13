@@ -1,4 +1,34 @@
+video{
+    display: block !important;
+}
 
+.video-fluid{
+    max-width: 100%;
+    height: auto;
+    max-height: 60%;
+    display: block !important;
+}
+
+.borderbottom{
+border-style: solid;
+    border-bottom: solid;
+    border-top: none;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    color: #8EA7A4 ;
+}
+
+.borderdan{
+    border-style: solid;
+    border-bottom: solid;
+    border-top: solid;
+    border-right: solid;
+    border-top: solid;
+    border-left: solid;
+    color: #8EA7A4 ;
+    size: 2px;
+}
 
   @media (max-width: 768px) {
     .mobilegoaway {
@@ -282,10 +312,6 @@ padding-left: 1.5rem;
 height:100vh;
 }
 
-section{
-height: 500px;
-border-color: black;
-}
 
 
 .method1{
