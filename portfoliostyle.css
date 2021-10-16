@@ -121,6 +121,13 @@ font-weight: 600;
 border-radius: 10px;
 }
 
+.gradientbutton:hover{
+background: linear-gradient(91.48deg, #8EA7A3 -4.94%, #92708C 105.77%);
+box-shadow: 0.5px 2px 5px rgba(0, 0, 0, 0.25);
+border: 2px solid;
+border-color: linear-gradient(270.24deg, #8EA7A4 1.38%, #93708C 76.72%);
+}
+
 .gradientbuttondisabled{
     background:linear-gradient(91.48deg, rgba(142, 167, 163, 0.6) -4.94%, rgba(146, 112, 140, 0.6) 105.77%);
     color: white;
@@ -331,7 +338,7 @@ height:100vh;
     list-style-image: url(./images/nextsteps2.svg);
 }
 .centerverticalincolumn {
-    display:flex; 
+    display:flex !important; 
     align-items:center
 }
 

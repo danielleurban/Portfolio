@@ -21992,8 +21992,9 @@ fieldset:disabled .btn.btn-circle {
     text-align: center;
     margin: 0 auto;
     vertical-align: middle;
-    font-size: 1.1rem;
+    font-size: 1.7rem;
     font-weight: 700;
+    font-family: "Karla", sans-serif;
 }
 .input-group .btn:hover {
     transform: none;
