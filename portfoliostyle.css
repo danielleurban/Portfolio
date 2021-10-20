@@ -160,6 +160,18 @@ border-color: linear-gradient(270.24deg, #8EA7A4 1.38%, #93708C 76.72%);
     text-decoration: none; 
     line-height: 1.3;
 }
+@media (max-width: 768px){
+    .covertextheading{
+        color:black;
+        font-family: "Karla", sans-serif;
+        font-size: 24px;
+        font-weight: 500;
+        text-decoration: none; 
+        line-height: 1.3;
+    }
+}
+
+
 
 .covertextrole{
     color: black;
