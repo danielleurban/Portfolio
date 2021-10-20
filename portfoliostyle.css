@@ -279,7 +279,7 @@ padding-left: 1.5rem;
     font-weight: 600;    
 }
 
-@media (max-width:576px) {
+@media (max-width:768px) {
     .pagetitlemobile{
         font-family: "karla", sans-serif;
         color: black;
@@ -304,6 +304,11 @@ padding-left: 1.5rem;
 .offsetright-md-1{
     margin-right: 8.33333333%;
 }
+
+@media (min-width:992px){
+.offsetright-lg-1{
+    margin-right: 8.33333333%;
+}}
 
 
 .px-xxl-18 {
