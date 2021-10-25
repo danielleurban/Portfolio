@@ -256,6 +256,11 @@ padding-left: 1.5rem;
     height: 300px;
     width: 300px;
 }
+.smalltext{
+    font-family: "karla", sans-serif;
+    color: black;
+    font-size: 12px;
+    font-weight: 400;}
 
 .abouttext{
     font-family: "karla", sans-serif;
